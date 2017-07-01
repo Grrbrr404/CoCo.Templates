@@ -10,7 +10,7 @@ Item template to create common folder structure used in composite component arch
 
 # Installation
 
-Download zip-files by using above links and copy them into your template directory. 
+Download zip-files by using above links (right click, save as ...) and copy them into your template directory. 
 To locate your template directory open your Visual Studio and navigate to tools / options / Projects and Solutions.
 Keep in mind that every Visual Studio version does have its own template directory.
 
