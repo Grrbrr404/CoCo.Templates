@@ -16,5 +16,5 @@ Keep in mind that every Visual Studio version does have its own template directo
 
 # Sample
 
-(https://github.com/Grrbrr404/CoCo.Templates/blob/master/proj_template.png?raw=true)
+[project template](https://github.com/Grrbrr404/CoCo.Templates/blob/master/proj_template.png?raw=true)
 
